@@ -83,5 +83,9 @@ with open(file_to_save, "w") as txt_file:
 # 4. The total number of votes each candidate won
 # 5. The winner of the election based on popular vote
 
+#Challenge Criteria
+# The voter turnout for each county
+# The percentage of votes from each county out of hte total count
+# The conuty with the highest turnout
 # Close the file.
 election_data.close()
